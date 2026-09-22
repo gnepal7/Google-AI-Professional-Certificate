@@ -1,17 +1,11 @@
 # AI fundamentals
 
 # Adopt a collaborative mindset with AI
+  
+# Three ways to collaborate with AI 
+  + three ways collaborating with AI can enhance the skills:
+    1. AI helps you organize and understand information
+    2. AI helps you create brand-new things
+    3. AI helps you improve and refine your work
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Maya, what advice do you have for people getting started with AI? 
