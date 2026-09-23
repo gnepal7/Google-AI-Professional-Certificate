@@ -1,0 +1,42 @@
+# Learn foundational AI concepts
+  > AI models
+  > Training
+  > GenAI
+  > Multimodel
+  > AI Agents
+
+# Fundamentals of machine learning
+  + Understand artificial intelligence
+
+  + Understand machine learning
+    - A technique that enables a tool to find patterns and learn from data on its own.
+  + Approaches to machine learning
+    1. Supervised Learning : large dataset that has been labeled by people
+    2. Unsupervised Learning : dataset has not been labeled by people
+    3. Reinforcement Learning : train AI through a trial-and-error process
+      that is guided by a reward system. 
+
+# Understand AI limitations
+  + Understand biases in AI
+    > To avoid unfair bias in outputs:
+      . Be specific about the output you want
+      . Use follow-up prompts to correct outputs that seem biased or inaccurate
+  + The constraint of knowledge cutoff
+    > To work effectively with a model's knowledge cutoff, you can use these techniques:
+      . Look up the cutoff
+      . Verify time-sensitive information
+      . Specify your timeframe
+      . Refine with follow-up prompts
+  + Changes in AI’s performance over time
+    > Drift is the gradual decline in a model’s accuracy and relevance as the real world changes. 
+      You might observe drift in two ways:
+      . Factual drift
+      . Behavioral drift
+    > Here are a few ways to manage and mitigate both kinds of drift:
+      . Provide accurate and up-to-date context in your prompts
+      . Keep chats focused by starting a new conversation for each specific task.
+      . Be explicit
+
+# Leverage AI features and capabilities for work
+  > Give clear prompts
+  > To handle AI use input box

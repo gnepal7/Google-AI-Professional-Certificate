@@ -1,0 +1,22 @@
+# Learn how to prompt AI to get helpful results
+  > Prompting
+  + Tips to elevate your prompts:
+    . Provide examples or references
+    . Utilize multimodal capabalitites
+    . Improve your output through iteration
+      > Edit your initial prompt
+      > Add a similar prompt with different phrasing
+      > Break up your prompt into smaller parts 
+      > Add constraints or requirements
+    . Use one thac per topic
+    
+
+
+
+
+
+
+
+
+
+
