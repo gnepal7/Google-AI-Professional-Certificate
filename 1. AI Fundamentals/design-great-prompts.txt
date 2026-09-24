@@ -10,13 +10,19 @@
       > Add constraints or requirements
     . Use one thac per topic
     
+# Prompting tips and tricks
+  + Follow the three C’s when writing your prompts:
+    . Be concise
+    . Be clear
+    . Be consistent
+  + Always evaluate the output, focus on such as:
+    . Accuracy
+    . Bias
+    . Relevancy
+    . Consistency
+  + Improve your results through iteration
+    . Revisit the prompting framework
+    . Break up complex tasks
+    . Add constraints
 
-
-
-
-
-
-
-
-
-
+# Mahi, what is your go to prompting trick?
