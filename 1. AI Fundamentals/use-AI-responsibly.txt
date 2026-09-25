@@ -1,0 +1,65 @@
+# Responsible AI in practice
+  + Reasons why AI may halluconate:
+    1. Errors in training data
+    2. Entirely too unique of a problem
+    3. No real world knowledge
+    4. A 'guess'
+  + Human-in-the loop
+  > ACT responsibly:
+    - Ask yourself, is this the right case for AI?
+    - Check all AI outputs as your objects and accuracy.
+    - Tell people when you use AI
+
+# Mahi, what should you do if you get a bad response from Gemini?
+
+# Responsible AI best practices
+  + Take steps to protect sensitive information
+    . Use generic placeholders
+    . Frame prompts
+    . Input only relevant context
+    . Clear AI's memory
+  + Understand regulatory and compliance boundaries
+    . Does this task have regulatory requirements?
+    . Are there licensing or credential requirements?
+    . Who is responsible?
+  + Build accountability into your process
+    . Track your sources
+    . Make your process auditable
+    . Document your verification steps
+  + Use the ACT checklist
+    > A stands for “Ask yourself” 
+      . Is AI right for this task?
+      . Is this data safe to use?
+      . Am I following the rules?
+    > C stands for “Check before you use the output” 
+      . For accuracy
+      . For bias and objectivity
+      . For appropriateness
+      . For originality and judgment
+    > T stands for “Tell people when you use AI” 
+      . Be transparent
+      . Be complaint
+
+# Learn about AI agents
+  + What can AI agents do for you?
+    > Here are a few examples of how you might use an AI Agent:
+      . Conduct market research
+      . Stream sales and CRM 
+      . Assis with forecasting demand
+  + Understand how AI agents work
+    > Models
+    > Permissions
+    > Goals
+      . Analyze
+      . Act
+      . Observe
+  + Your guide to working with agents responsibly
+    > Risk
+    > Reversibility
+  + Best practices for directing AI agents
+    > Start with a clear, specific goal
+    > Manage permissions wisely
+    > Always evaluate
+    > Iterate and refine
+
+# Claim your course completion badge

@@ -38,9 +38,11 @@
 # Mahi, what's a hack for giving Gemini context in a new chat?
 
 # Generate visuals with AI
-
-
-
-
-
-
+  + What is multimodality?
+    - Multimodality is useful because it allows you to give Gemini more detailed and richer context when 
+      prompting it. Instead of telling it what you want using only words, you can enrich your instructions 
+      with images, video, and audio
+    - What you'll gain;
+      . Visual storytelling
+      . Multimodal fluency
+      . Streamlined workflow
