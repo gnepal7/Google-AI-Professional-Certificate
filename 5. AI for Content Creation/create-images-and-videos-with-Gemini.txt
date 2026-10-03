@@ -1,15 +1,10 @@
 # AI for content creation
   + Multimodal capabalities
+  > Gemini can helpful for:
+    - To generate images and videos
+    - Transform formats
+    - Get feedback for files and attachments
 
+# Create marketing assets to promote your brand
 
-
-
-
-
-
-
-
-
-
-
-
+# Maya, how is AI bringing your creative goals to life?
