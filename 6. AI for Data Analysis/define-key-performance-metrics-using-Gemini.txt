@@ -1,0 +1,10 @@
+# AI for data analysis
+  + Elements of data analysis where your role is essential:
+    - Ask questions
+    - Understand implications
+    - Make decisions
+    - Verify findings
+
+# Identify key metrics to inform your reporting
+
+# Build with AI: Measurement plan
