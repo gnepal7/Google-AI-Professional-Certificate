@@ -1,15 +1,6 @@
 # AI for app building
   + Vibe Coding
     - Vibe coding is a lot like prompting, just describe exactly what you need
+  => Agentic AI
 
-
-
-
-
-
-
-
-
-
-
-
+# Ammaar, what is vibe coding?

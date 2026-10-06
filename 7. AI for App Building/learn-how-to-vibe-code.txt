@@ -1,0 +1,16 @@
+# Learn how to build a custom AI tool
+  + As we build each app, pay attention to:
+    . Natural conversational flow
+    . The need for specific feedback
+    . Speed from idea to prototype
+
+# Develop functional apps to handle manual tasks
+
+
+
+
+
+
+
+
+
