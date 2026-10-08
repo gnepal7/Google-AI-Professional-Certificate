@@ -1,12 +1,7 @@
 # AI for app deployment
 
+# Plan your app before generating any code
 
+# Create a ripple effect app to visualize project risks
 
-
-
-
-
-
-
-
-
+# Build with AI: An app prototype
