@@ -1,13 +1,5 @@
 # Ammaar, how do you stay motivated when apps fail?
 
+# Test your app to identify and fix bugs
 
-
-
-
-
-
-
-
-
-
-
+# Debug a storyboard visualizer app
